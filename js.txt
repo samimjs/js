@@ -1,0 +1,52 @@
+var samim
+undefined
+var samim = "samimfaqiri"
+undefined
+samim
+"samimfaqiri"
+var a = 22
+undefined
+var b = 23
+undefined
+var a = b
+undefined
+a
+23
+b
+23
+var married = false
+undefined
+married
+false
+var married = true
+undefined
+married
+true
+var samim = 22
+undefined
+samim
+22
+{name: "samimfaqiri"} samim.age =22
+22
+var samim = ["afghan","kool","great"]
+undefined
+samim
+Array(3) [ "afghan", "kool", "great" ]
+samim [3]
+undefined
+samim [2]
+"great"
+samim
+(3) […]
+​
+0: "afghan"
+​
+1: "kool"
+​
+2: "great"
+​
+length: 3
+​
+__proto__: Array []
+samim.list2 = ["text",22,false{}]
+SyntaxError: missing ] after element list[Learn More] debugger eval code:1:30 note: [ opened at line 1, column 14
